@@ -1,0 +1,2 @@
+# sqx-utils
+Utilitarios SQX
