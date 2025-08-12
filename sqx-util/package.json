@@ -1,0 +1,12 @@
+{
+  "name": "sqx-util",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "electron .",
+    "postinstall": ""
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
